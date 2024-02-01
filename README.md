@@ -1,4 +1,4 @@
-<h1>RazoPay Clone Project 🌐💳</h1>
+<h1>RazorPay Clone Project 🌐💳</h1>
 
 Overview:This repository houses the codebase for my RazoPay Clone project, a responsive payment gateway implementation crafted with HTML, CSS, JavaScript, and the efficient Tailwind CSS framework.
 
@@ -15,7 +15,7 @@ Tailwind CSS Framework: Harnessing the power of Tailwind for streamlined styling
 🛠️ Utilization of Tailwind CSS for efficient styling and layout.<br>
 
 <h2>Usage:</h2><br>
-Clone the repository: git clone https://github.com/vikashtiwari97/Razopay_Clone.git<br>
+Clone the repository: git clone https://github.com/vikashtiwari97/Razorpay_Clone.git<br>
 Open the index.html file in your preferred web browser.<br>
 Explore the responsive RazoPay Clone and interact with the implemented features.<br>
 
