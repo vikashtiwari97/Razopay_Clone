@@ -15,7 +15,7 @@ Tailwind CSS Framework: Harnessing the power of Tailwind for streamlined styling
 🛠️ Utilization of Tailwind CSS for efficient styling and layout.<br>
 
 <h2>Usage:</h2><br>
-Clone the repository: git clone https://github.com/your-username/razopay-clone.git<br>
+Clone the repository: git clone https://github.com/vikashtiwari97/Razopay_Clone.git<br>
 Open the index.html file in your preferred web browser.<br>
 Explore the responsive RazoPay Clone and interact with the implemented features.<br>
 
